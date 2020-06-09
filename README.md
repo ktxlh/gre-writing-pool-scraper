@@ -12,7 +12,7 @@ Scrap the official writing pool in a few clicks.
 
 
 ## Example
-With the official website url: (https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/pool),
+With the official website url: [Issue](https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/pool) and [argument](https://www.ets.org/gre/revised_general/prepare/analytical_writing/argument/pool),
 ![](https://i.imgur.com/iPMlEFX.png)
 
 It generates a text file containing topics like this (Take the first one for example):
