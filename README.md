@@ -20,7 +20,7 @@ If you need more customization, you may create your own version.
 With the official website url: [Issue](https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/pool) and [argument](https://www.ets.org/gre/revised_general/prepare/analytical_writing/argument/pool),
 ![](https://i.imgur.com/iPMlEFX.png)
 
-It generates a text file containing topics like this (Take the first one for example):
+It generates two text files, one for *issue* and the other for *argument*, containing topics like the following. Take the first one for example:
 ```
 # 1 --------------------------------------------------------------------------------------------------------------------------
 To understand the most important characteristics of a society, one must study its major cities.
