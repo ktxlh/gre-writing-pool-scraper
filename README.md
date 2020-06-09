@@ -2,13 +2,13 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktxlh/gre-writing-pool-scraper/blob/master/GRE_writing_pool_generator.ipynb)
 
-Scrap the official writing pool in a few clicks.
+Scrap the official analytical writing pool in a few clicks.
 
 ## Instructions
 ### Option 1: Use the scrapped pdf files (Accessed on Jun 9, 2020)
 I have formatted them and convert the file to pdfs. You may just download them.
 
-### Option 2: Scrape them on your own
+### Option 2: Scrape the latest pools on your own
 If you need more customization, you may create your own version.
 1. Click the `Open in Colab` badge
 2. Follow the steps in the notebook. The steps are repeated here:
