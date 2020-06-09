@@ -4,7 +4,7 @@
 Scrap the official writing pool in a few clicks.
 
 ## Instructions
-1. Click the badge to open the Colab
+1. Click the badge above to `Open In Colab`
 2. (Optional) Customize the simple settings
 3. Run every cell
 4. Download the generated .txt files
