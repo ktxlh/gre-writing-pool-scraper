@@ -23,14 +23,14 @@ The official websites are [issue](https://www.ets.org/gre/revised_general/prepar
 
 This tool generates two text files, one for *issue* and the other for *argument*, containing topics in the following format: (only the first one is shown)
 ```
-Argument pool
-175 topics in total. Access on 2020-06-09.
+Issue pool
+149 topics in total. Access on 2020-06-09.
 
 # 1 --------------------------------------------------------------------------------------------------------------------------
 
-Woven baskets characterized by a particular distinctive pattern have previously been found only in the immediate vicinity of the prehistoric village of Palea and therefore were believed to have been made only by the Palean people. Recently, however, archaeologists discovered such a "Palean" basket in Lithos, an ancient village across the Brim River from Palea. The Brim River is very deep and broad, and so the ancient Paleans could have crossed it only by boat, and no Palean boats have been found. Thus it follows that the so-called Palean baskets were not uniquely Palean.
+To understand the most important characteristics of a society, one must study its major cities.
 
-Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
 ```
 
 ## Roadmap
