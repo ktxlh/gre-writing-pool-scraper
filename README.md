@@ -4,6 +4,11 @@
 Scrap the official writing pool in a few clicks.
 
 ## Instructions
+### Option 1: Use the scrapped pdf files (Scraped on Jun 9, 2020).
+I have formatted them and convert the file to pdfs. You may just download them.
+
+### Option 2: Scrape your own.
+If you need more customization, you may create your own version.
 1. Click the badge above to `Open in Colab`
 2. Follow the steps there (Repeated here):
     1. (Optional) Customize the simple settings
