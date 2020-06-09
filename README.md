@@ -1,5 +1,5 @@
 # GRE Writing Pool Scraper
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tSlVHUwtCfOktzJI--3hWnWs2JML7qXi?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tSlVHUwtCfOktzJI--3hWnWs2JML7qXi?usp=sharing)
 
 Scrap the official writing pool in a few clicks.
 
