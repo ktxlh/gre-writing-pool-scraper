@@ -5,8 +5,8 @@
 Scrap the official analytical writing pool in a few clicks.
 
 ## Instructions
-### Option 1: Use the scrapped pdf files (Accessed on Jun 9, 2020)
-I have formatted them and convert the file to pdfs. You may just download them.
+### Option 1: Use the scrapped pdf files accessed on June 9, 2020
+I have formatted the generated files and convert them to pdfs. You may just download them.
 
 ### Option 2: Scrape the latest pools on your own
 If you need more customization, you may create your own version.
@@ -24,7 +24,7 @@ The official websites are [issue](https://www.ets.org/gre/revised_general/prepar
 This tool generates two text files, one for *issue* and the other for *argument*, containing topics in the following format: (only the first one is shown)
 ```
 Issue pool
-149 topics in total. Access on 2020-06-09.
+149 topics in total. Accessed on 2020-06-09.
 
 # 1 --------------------------------------------------------------------------------------------------------------------------
 
