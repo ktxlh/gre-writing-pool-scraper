@@ -37,4 +37,4 @@ Write a response in which you discuss the extent to which you agree or disagree 
 - [x] Program the base version: Scrap the contents.
 - [ ] Order the topics by similarity (how do we define the similarity here?)
     - [ ] Group by types of prompts
-    - [ ] Group by topics
+    - [ ] Group by topics: Contextual representation (e.g. BERT) +  clustering
