@@ -9,16 +9,16 @@ Scrap the official analytical writing pool in a few clicks.
 I have formatted the generated files and convert them to pdfs. You may just download them.
 
 ### Option 2: Scrape the latest pools on your own
-If you need more customization, you may create your own version.
-1. Click the `Open in Colab` badge
+If you need more customization, you may create your own version:
+1. Click the `Open in Colab` badge.
 2. Follow the steps in the notebook. The steps are repeated here:
-    1. (Optional) Adjust the settings for customization
-    2. Run every cell
-    3. Download the generated text files
+    1. (Optional) Adjust the settings for customization.
+    2. Run every cell.
+    3. Download the generated text files.
 
 
 ## Example
-The official websites are [issue](https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/pool) and [argument](https://www.ets.org/gre/revised_general/prepare/analytical_writing/argument/pool). The screenshot of the issue one is:
+The official webpagess are [*issue*](https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/pool) and [*argument*](https://www.ets.org/gre/revised_general/prepare/analytical_writing/argument/pool). The screenshot of the *issue* one is:
 ![](https://i.imgur.com/iPMlEFX.png)
 
 This tool generates two text files, one for *issue* and the other for *argument*, containing topics in the following format: (only the first one is shown)
@@ -34,7 +34,7 @@ Write a response in which you discuss the extent to which you agree or disagree 
 ```
 
 ## Roadmap
-- [x] Program the base version: Scrap the contents.
-- [ ] Order the topics by similarity (how do we define the similarity here?)
-    - [ ] Group by types of prompts
-    - [ ] Group by topics: Contextual representation (e.g. BERT) +  clustering
+- [x] program the base version: scrap the contents.
+- [ ] order the topics by similarity (how do we define the similarity here?)
+    - [ ] group by types of prompts
+    - [ ] group by topics: contextual representation (e.g. BERT) +  clustering
