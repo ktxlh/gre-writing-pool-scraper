@@ -34,7 +34,7 @@ Write a response in which you discuss the extent to which you agree or disagree 
 ```
 
 ## Roadmap
-- [x] program the base version: scrap the contents.
-- [ ] order the topics by similarity (how do we define the similarity here?)
-    - [ ] group by types of prompts
-    - [ ] group by topics: contextual representation (e.g. BERT) +  clustering
+- [x] Program the base version: scrap the contents.
+- [ ] Order the topics by similarity (how do we define the similarity here?)
+    - [ ] Group by types of prompts
+    - [ ] Group by topics: contextual representation (e.g. BERT) +  clustering
